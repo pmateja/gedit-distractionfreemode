@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=distractionfree
+IAge=3
+Name=Dictraction Free Mode
+Description=A simple plugin for distraction free writing
+Authors=Paweł Mateja <p0mateja@gmail.com>
+Copyright=Copyright © 2016 Paweł Mateja <p0mateja@gmail.com>
+Website=http://www.gedit.org
