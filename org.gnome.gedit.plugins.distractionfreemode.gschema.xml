@@ -1,0 +1,9 @@
+<schemalist>
+  <schema gettext-domain="gedit" id="org.gnome.gedit.plugins.distractionfreemode" path="/org/gnome/gedit/plugins/distractionfreemode/">
+    <key name="width" type="i">
+      <default>600</default>
+      <summary>Width</summary>
+      <description>Textfield width</description>
+    </key>
+  </schema>
+</schemalist>
